@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masoudit/antd-jalali-plus/static/css/main.b75b7b9a.css",
+    "main.js": "/masoudit/antd-jalali-plus/static/js/main.2c2548f3.js",
+    "index.html": "/masoudit/antd-jalali-plus/index.html",
+    "main.b75b7b9a.css.map": "/masoudit/antd-jalali-plus/static/css/main.b75b7b9a.css.map",
+    "main.2c2548f3.js.map": "/masoudit/antd-jalali-plus/static/js/main.2c2548f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75b7b9a.css",
+    "static/js/main.2c2548f3.js"
+  ]
+}
